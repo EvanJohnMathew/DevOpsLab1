@@ -3,11 +3,11 @@ body {
     margin: 0;
 }
 
-header{
-    background:#138808;
-    color:white;
-    padding:20px;
-    text-align:center;
+header {
+    background: #138808;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
 
 nav a {
@@ -32,15 +32,8 @@ button {
     margin: 30px;
 }
 
-<<<<<<< HEAD
-.card{
-    border:1px solid gray;
-    padding:20px;
-    width:200px;
-=======
 .card {
     border: 1px solid gray;
     padding: 20px;
     width: 200px;
->>>>>>> origin/main
 }
